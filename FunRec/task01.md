@@ -140,9 +140,7 @@
 * 近线层：使用实时数据，不保证实时响应。
 * 在线层：使用实时数据，保证实时响应。
 
-![alt text](https://datawhalechina.github.io/fun-rec/imgs/ch01/ch1.2/image-20220409205047285.png)
-
-![alt text](https://datawhalechina.github.io/fun-rec/imgs/ch01/ch1.2/image-20220409204658032.png)
+![alt text](https://img-blog.csdnimg.cn/img_convert/50158f85b1f34eaf905c97acf1d2993b.jpeg)
 
 下面我们仔细介绍一下这三个层。
 1. 离线层
